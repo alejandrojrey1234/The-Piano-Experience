@@ -1,15 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class TocarMusica : MonoBehaviour
 {
 
-    public AudioSource tickSource;
+    public Sound nota; 
     // Start is called before the first frame update
     void Start()
     {
-        tickSource = GetComponent<AudioSource>(); 
+        
     }
 
     // Update is called once per frame
@@ -20,6 +21,9 @@ public class TocarMusica : MonoBehaviour
 
     private void OnCollitionEnter(Collision collision)
     {
-        tickSource.Play();
+        if (collision.collider.tag == "PhysicsPusher")
+        {
+            FindObjectOfType<AudioManager>().Play("c3");       
+        }
     }
 }
