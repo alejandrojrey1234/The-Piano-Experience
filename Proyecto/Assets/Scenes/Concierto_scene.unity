@@ -5428,6 +5428,9 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  Proximatocada: 0
+  Cooldown: 2.7
+  presionada: 0
 --- !u!114 &1813338723
 MonoBehaviour:
   m_ObjectHideFlags: 0

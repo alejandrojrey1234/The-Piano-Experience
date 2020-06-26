@@ -4,6 +4,7 @@
     using UnityEngine;
     using UnityEngine.UI;
     using VRTK.Controllables;
+    using System;
 
     public class ControllableReactor : MonoBehaviour
     {
@@ -11,7 +12,9 @@
         public Text displayText;
         public string outputOnMax = "Maximum Reached";
         public string outputOnMin = "Minimum Reached";
-
+        public float Proximatocada = 0f;
+        public float Cooldown = 2.7f;
+        public Boolean presionada = false;
         protected virtual void OnEnable()
         {
             controllable = (controllable == null ? GetComponent<VRTK_BaseControllable>() : controllable);
@@ -22,7 +25,13 @@
 
         private void OnCollisionEnter(Collision collision)
         {
-          FindObjectOfType<AudioManager>().Play("c3");
+           if (collision.collider.tag == "PhysicsPusher" || Time.time > Proximatocada)
+        {  
+            presionada = true;
+            Proximatocada = Time.time + Cooldown;
+            FindObjectOfType<AudioManager>().Play("c3");       
+        }
+
         }
         protected virtual void ValueChanged(object sender, ControllableEventArgs e)
         {
@@ -46,6 +55,14 @@
             if (outputOnMin != "")
             {
                 Debug.Log(outputOnMin);
+            }
+        }
+
+        void Update(Collision collision)
+        {
+            if(collision.collider.tag != "PhysicsPusher")
+            {
+                presionada = false;
             }
         }
     }
