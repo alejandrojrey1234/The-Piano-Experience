@@ -25,11 +25,11 @@
 
         private void OnCollisionEnter(Collision collision)
         {
-           if (collision.collider.tag == "PhysicsPusher" || Time.time > Proximatocada)
+           if (collision.collider.tag == "PhysicsPusher" || Time.deltaTime > Proximatocada)
         {  
             presionada = true;
-            Proximatocada = Time.time + Cooldown;
-            FindObjectOfType<AudioManager>().Play("c3");       
+            Proximatocada = Time.deltaTime + Cooldown;
+                
         }
 
         }
@@ -44,6 +44,7 @@
 
         protected virtual void MaxLimitReached(object sender, ControllableEventArgs e)
         {
+            FindObjectOfType<AudioManager>().Play("c3");
             if (outputOnMax != "")
             {
                 Debug.Log(outputOnMax);

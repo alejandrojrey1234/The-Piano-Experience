@@ -642,7 +642,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &264415710
 AudioSource:
   m_ObjectHideFlags: 0
@@ -877,7 +876,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &326710740
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1167,7 +1165,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &402759465
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2206,7 +2203,7 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 1a04b0c13cdc75f4a9637b36ece979f1, type: 3}
     volume: 1
     pitch: 1
-    source: {fileID: 0}
+  Reproductorsonido: {fileID: 1813338727}
 --- !u!4 &749333333
 Transform:
   m_ObjectHideFlags: 0
@@ -2440,7 +2437,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &783777768
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2919,7 +2915,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &959217296
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3134,7 +3129,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1047357045
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3349,7 +3343,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1115714416
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4088,7 +4081,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1501239834
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4277,7 +4269,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4000014230070706, guid: 33a096ef14a38e543af97bd67de0db31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4000014230070706, guid: 33a096ef14a38e543af97bd67de0db31, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4285,7 +4277,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000014230070706, guid: 33a096ef14a38e543af97bd67de0db31, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.223
       objectReference: {fileID: 0}
     - target: {fileID: 4000014230070706, guid: 33a096ef14a38e543af97bd67de0db31, type: 3}
       propertyPath: m_LocalRotation.x
@@ -4619,7 +4611,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!4 &1622931094 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4000010708568644, guid: 5009eca976e988c4897ba76fd171b10a,
@@ -4738,7 +4729,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1634202425
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5066,7 +5056,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1653158603
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5405,7 +5394,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1813338720}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.93, y: 0.064, z: 0.252}
+  m_LocalPosition: {x: 6.67, y: -0.053, z: 0.769}
   m_LocalScale: {x: 1, y: 0, z: 1}
   m_Children:
   - {fileID: 1966764916}
@@ -5713,7 +5702,6 @@ MonoBehaviour:
     clip: {fileID: 0}
     volume: 0
     pitch: 0
-    source: {fileID: 0}
 --- !u!82 &1872764682
 AudioSource:
   m_ObjectHideFlags: 0
