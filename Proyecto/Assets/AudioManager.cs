@@ -10,9 +10,9 @@ public class AudioManager : MonoBehaviour
    
 
     // Update is called once per frame
-    public void Play(string name)
+    public void Play(string nombre)
     {
-       Sound s = Array.Find(sounds, sound => sound.name == name);
+       Sound s = Array.Find(sounds, sound => sound.clip.name == nombre);
         Reproductorsonido.volume = s.volume;
         Reproductorsonido.pitch = s.pitch;
         Reproductorsonido.PlayOneShot(s.clip);
