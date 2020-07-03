@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 07b7346c5724b96438ebb762da72a103
   - enabled: 1
+    path: Assets/Scenes/Selector_de_escenas.unity
+    guid: 2e0d7817e2f06084fac2ff246a27b6de
+  - enabled: 1
     path: Assets/Scenes/Concierto_scene.unity
     guid: 30d6badbbf3b07e4f9da8afa692c46c0
+  - enabled: 1
+    path: Assets/Scenes/Casa_scene.unity
+    guid: 8de52df74670dd4479a7e54698967771
   m_configObjects: {}
