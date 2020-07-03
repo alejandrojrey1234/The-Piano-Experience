@@ -6,13 +6,8 @@ using UnityEngine.SceneManagement;
 public class Cambio_scene : MonoBehaviour
 {
 
-public void PlayGame()
+public void PlayGame(string NombreEscena)
     {
-        SceneManager.LoadScene(1);
-    }
-
-public void QuitGame()
-    {
-        Application.Quit();
+        SceneManager.LoadScene("Concierto_scene");
     }
 }
