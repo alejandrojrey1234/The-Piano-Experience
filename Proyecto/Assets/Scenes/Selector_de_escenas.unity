@@ -121,6 +121,99 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &170757269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 170757271}
+  - component: {fileID: 170757270}
+  m_Layer: 0
+  m_Name: AudioManager (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &170757270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170757269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb34c435b7e87d42a1302a9d84500ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - nombre: c3
+    clip: {fileID: 8300000, guid: 1a04b0c13cdc75f4a9637b36ece979f1, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: c#3
+    clip: {fileID: 8300000, guid: 0ed1768796083054cb1992b5051dc852, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: d3
+    clip: {fileID: 8300000, guid: 9b1feec4ece724c4ca15918556644422, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: d#3
+    clip: {fileID: 8300000, guid: 788b177f80da7fd428cc76046b279419, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: e3
+    clip: {fileID: 8300000, guid: 29eae1224e25656469ec3ca71eaf93b4, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: f3
+    clip: {fileID: 8300000, guid: cbf769d59401e7e4a963f7e0e44c17de, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: f#3
+    clip: {fileID: 8300000, guid: c180103c1af345b4896a62a1271a654e, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: g3
+    clip: {fileID: 8300000, guid: 98e4a69e2336ac543a7940c9ddfd6f58, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: g#3
+    clip: {fileID: 8300000, guid: bcee90817ad237544ac2b7d396832bc7, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: a3
+    clip: {fileID: 8300000, guid: 51269d47bc0a7a043bf006e64dfd718d, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: a#3
+    clip: {fileID: 8300000, guid: a1c237f815492314ba2895b4f2d7f278, type: 3}
+    volume: 1
+    pitch: 1
+  - nombre: b3
+    clip: {fileID: 8300000, guid: 54a1dafd5842b544ba2062a385059e01, type: 3}
+    volume: 1
+    pitch: 1
+  Reproductorsonido: {fileID: 0}
+--- !u!4 &170757271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170757269}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -19, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &279608706
 GameObject:
   m_ObjectHideFlags: 0
