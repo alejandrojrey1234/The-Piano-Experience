@@ -16,5 +16,13 @@ public class AudioManager : MonoBehaviour
         Reproductorsonido.volume = s.volume;
         Reproductorsonido.pitch = s.pitch;
         Reproductorsonido.PlayOneShot(s.clip);
+
+        if(PauseMenu.GameIsPaused)
+        {
+            Reproductorsonido.time = 0f;
+        } else
+        {
+            Reproductorsonido.time = 1f;
+        }
     }
 }
