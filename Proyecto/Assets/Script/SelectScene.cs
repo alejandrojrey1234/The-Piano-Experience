@@ -20,4 +20,9 @@ public class SelectScene : MonoBehaviour
         SceneManager.LoadScene(4);
     }
 
+    public void GoHome()
+    {
+        SceneManager.LoadScene(0);
+    }
+
 }

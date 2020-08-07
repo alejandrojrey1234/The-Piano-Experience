@@ -5507,6 +5507,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 111.11113
       objectReference: {fileID: 0}
+    - target: {fileID: -2160538185192768936, guid: 5562bebf21781bb40856a2a43b680d13,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a05a1fb94d0e2834baea765cc26c3f5e, type: 2}
     - target: {fileID: -927199367670048503, guid: 5562bebf21781bb40856a2a43b680d13,
         type: 3}
       propertyPath: m_Name
@@ -50796,7 +50801,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 571f3cc6cf641c8498e3eae32bc2ee83,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 571f3cc6cf641c8498e3eae32bc2ee83,
         type: 3}
