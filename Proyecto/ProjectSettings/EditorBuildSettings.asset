@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Casa_scene.unity
     guid: 8de52df74670dd4479a7e54698967771
+  - enabled: 1
+    path: Assets/Scenes/Synthwave_scene/Synthwave_scene.unity
+    guid: d6240400ed4f8b945a4c5576647f9cfe
   m_configObjects: {}

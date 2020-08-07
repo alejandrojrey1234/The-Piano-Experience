@@ -8,6 +8,7 @@
 
     public class ControllableReactor : MonoBehaviour
     {
+        public AudioSource audioSource;
         public VRTK_BaseControllable controllable;
         public Text displayText;
         public string outputOnMax = "Maximum Reached";
@@ -48,6 +49,8 @@
 
         protected virtual void MinLimitReached(object sender, ControllableEventArgs e)
         {
+
+
             if (outputOnMin != "")
             {
                 Debug.Log(outputOnMin);

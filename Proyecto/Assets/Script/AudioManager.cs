@@ -1,6 +1,7 @@
 ﻿using UnityEngine.Audio;
 using UnityEngine;
 using System;
+using VRTK.Examples;
 
 public class AudioManager : MonoBehaviour
 {
@@ -24,5 +25,9 @@ public class AudioManager : MonoBehaviour
         {
             Reproductorsonido.time = 1f;
         }
+
+
+
     }
+
 }

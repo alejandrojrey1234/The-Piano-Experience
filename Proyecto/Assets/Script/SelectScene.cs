@@ -15,4 +15,9 @@ public class SelectScene : MonoBehaviour
         SceneManager.LoadScene(3);
     }
 
+    public void synthwave()
+    {
+        SceneManager.LoadScene(4);
+    }
+
 }
