@@ -350,6 +350,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1526851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -633,6 +634,72 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1, y: 1.1, z: 1.1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &17081953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 17081956}
+  - component: {fileID: 17081955}
+  - component: {fileID: 17081954}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &17081954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17081953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &17081955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17081953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &17081956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17081953}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &21389014
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,6 +850,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &21389018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1007,6 +1075,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &22982463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1468,6 +1537,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &43475413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2103,6 +2173,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &62315530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2510,6 +2581,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &87491724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2813,6 +2885,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &98282864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3108,6 +3181,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &115933078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3332,6 +3406,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &116015009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3696,6 +3771,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &120062844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4334,6 +4410,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &135482213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4558,6 +4635,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &142095457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5152,6 +5230,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &167190235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5511,7 +5590,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a05a1fb94d0e2834baea765cc26c3f5e, type: 2}
+      objectReference: {fileID: 2100000, guid: ef8d75f028f7ef54ba97042053b300cf, type: 2}
     - target: {fileID: -927199367670048503, guid: 5562bebf21781bb40856a2a43b680d13,
         type: 3}
       propertyPath: m_Name
@@ -5692,7 +5771,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1948701762}
+      - m_Target: {fileID: 0}
         m_MethodName: TextUpdate
         m_Mode: 0
         m_Arguments:
@@ -6029,6 +6108,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &202887558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6253,6 +6333,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &205025479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6697,6 +6778,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &214702716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7079,6 +7161,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &233366494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7334,6 +7417,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &236862114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7713,6 +7797,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &242448503
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8016,6 +8101,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &250240704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8650,6 +8736,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &261628393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9105,6 +9192,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &272571562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9364,6 +9452,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &275404037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9748,6 +9837,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &298556589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9972,6 +10062,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &300078159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10680,6 +10771,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &320824676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10904,6 +10996,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &338406392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11025,10 +11118,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52d0ccd621417664ca1f1123b9488a27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showControlHints: 1
+  showControlHints: 0
   hideHandsAtSwitch: 0
   resetHandsAtSwitch: 1
-  showHandAxisHelpers: 1
+  showHandAxisHelpers: 0
   lockMouseToView: 1
   mouseMovementInput: 0
   handMoveMultiplier: 0.2
@@ -11212,6 +11305,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &344664303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11776,6 +11870,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &355872833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12000,6 +12095,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &365450315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12427,6 +12523,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &367884377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13058,6 +13155,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &384508883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13356,6 +13454,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &397213711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13738,6 +13837,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &415203434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14108,6 +14208,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &418255797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14802,6 +14903,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &439933204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15238,6 +15340,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &447514849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15602,6 +15705,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &452418380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15905,6 +16009,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &457024751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16208,6 +16313,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &466433825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16548,7 +16654,7 @@ Transform:
   m_Children:
   - {fileID: 130344057}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &484913763
 GameObject:
@@ -16853,6 +16959,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &487147759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17361,6 +17468,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &512200732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17773,6 +17881,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &534290565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18155,6 +18264,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &544988268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18658,6 +18768,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &588207575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18982,6 +19093,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &593946483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19086,7 +19198,7 @@ Transform:
   - {fileID: 301304707}
   - {fileID: 189320853}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &596595123
 GameObject:
@@ -20153,6 +20265,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &639006964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20881,6 +20994,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &675326759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21396,6 +21510,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &705990345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21620,6 +21735,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &710892595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22002,6 +22118,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &729277819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22723,6 +22840,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &784163622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23026,6 +23144,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &791945702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23250,6 +23369,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &795342022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23403,165 +23523,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1, y: 1.1, z: 1.1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &803871623
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 803871624}
-  - component: {fileID: 803871626}
-  - component: {fileID: 803871625}
-  m_Layer: 5
-  m_Name: Volume
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &803871624
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 803871623}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.49484545, y: 1.0786518, z: 1.2}
-  m_Children: []
-  m_Father: {fileID: 2031708997}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -114.2, y: 4}
-  m_SizeDelta: {x: 114.874054, y: 44.23536}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &803871625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 803871623}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 'Volume
-
-'
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 1
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f987dbae83d363c4bba6e30e1e376cc5,
-    type: 2}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_outlineColor:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontSize: 25
-  m_fontSizeBase: 25
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 17
-  m_textAlignment: 513
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
-  m_linkedTextComponent: {fileID: 0}
-  m_isLinkedTextComponent: 0
-  m_isTextTruncated: 0
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_ignoreRectMaskCulling: 0
-  m_ignoreCulling: 1
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_VertexBufferAutoSizeReduction: 1
-  m_firstVisibleCharacter: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0.41426685, y: 0, z: 0.48556012, w: 0}
-  m_textInfo:
-    textComponent: {fileID: 803871625}
-    characterCount: 7
-    spriteCount: 0
-    spaceCount: 1
-    wordCount: 1
-    linkCount: 0
-    lineCount: 1
-    pageCount: 1
-    materialCount: 1
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_spriteAnimator: {fileID: 0}
-  m_hasFontAssetChanged: 0
-  m_subTextObjects:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &803871626
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 803871623}
-  m_CullTransparentMesh: 0
 --- !u!1 &807052192 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000011401907096, guid: 33a096ef14a38e543af97bd67de0db31,
@@ -23737,6 +23698,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &809302316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24279,6 +24241,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &827657040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24653,7 +24616,7 @@ Transform:
   - {fileID: 274772582}
   - {fileID: 1477147179}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &829839505
 GameObject:
@@ -24919,7 +24882,7 @@ RectTransform:
   - {fileID: 1530104293}
   - {fileID: 986807188}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -25155,6 +25118,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &840159467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25870,6 +25834,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &868815298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26173,6 +26138,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &874120330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26397,6 +26363,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &875061448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26621,6 +26588,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &879664026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28241,6 +28209,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &955945905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28465,6 +28434,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &959107523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28768,6 +28738,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &964103953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29135,6 +29106,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &973968690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30152,6 +30124,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1014667762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30533,6 +30506,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1026731084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30757,6 +30731,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1043752737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30981,6 +30956,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1048082140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31205,6 +31181,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1048293570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31459,6 +31436,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1051786121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31683,6 +31661,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1061935689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32367,6 +32346,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1094828324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32591,6 +32571,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1096917145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32974,6 +32955,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1101527033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33198,6 +33180,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1105387299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33672,6 +33655,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1111493996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33975,6 +33959,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1113851709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34357,6 +34342,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1118733599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34660,6 +34646,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1120148559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34884,6 +34871,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1123564781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35298,6 +35286,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1161785347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35522,6 +35511,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1163036412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35746,6 +35736,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1168312024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35970,6 +35961,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1169116861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36365,6 +36357,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1179260749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36589,6 +36582,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1180108320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36813,6 +36807,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1181138242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37184,7 +37179,7 @@ Transform:
   - {fileID: 1700572330}
   - {fileID: 1074766484}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1192908696
 GameObject:
@@ -37336,6 +37331,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1192908700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37796,6 +37792,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1205585754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38265,6 +38262,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1211666940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38568,6 +38566,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1224454918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38792,6 +38791,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1232601714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39316,6 +39316,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1250352872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40061,7 +40062,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1280815789
 GameObject:
@@ -40091,7 +40092,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1712772167}
-  - {fileID: 1948701761}
+  - {fileID: 2017178602}
   m_Father: {fileID: 195100864}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -40131,7 +40132,7 @@ Transform:
   - {fileID: 1825736987}
   - {fileID: 2045043945}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1285453396
 GameObject:
@@ -40283,6 +40284,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1285453400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40507,6 +40509,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1293688418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41142,6 +41145,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1313930747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41577,6 +41581,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1324132290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42022,6 +42027,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1345046053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42399,6 +42405,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1348466779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42781,6 +42788,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1356788090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43084,6 +43092,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1379836631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43308,6 +43317,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1380249375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43672,6 +43682,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1384107644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44003,6 +44014,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1390695048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44671,6 +44683,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1421981065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44895,6 +44908,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1423111528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45119,6 +45133,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1424705841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45655,6 +45670,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1443221790
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46133,6 +46149,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1449519560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46357,6 +46374,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1454918309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46731,6 +46749,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1473525665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47394,6 +47413,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1497997416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47846,6 +47866,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1504311899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48070,6 +48091,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1507327591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48509,6 +48531,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1529189624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49348,6 +49371,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1553109311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49911,6 +49935,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1566993176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50428,6 +50453,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1574183388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50682,6 +50708,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1599304249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50990,6 +51017,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1604225000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51214,6 +51242,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1605295223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51596,6 +51625,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1618530823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51960,6 +51990,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1636958666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52184,6 +52215,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1640819794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52487,6 +52519,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1645897488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52999,6 +53032,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1665891991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53223,6 +53257,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1666564952
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53447,6 +53482,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1681059859
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53671,6 +53707,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1682363247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53895,6 +53932,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1688594725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54119,6 +54157,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1690406772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54343,6 +54382,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1697517153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54716,6 +54756,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1703198635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54940,6 +54981,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1704975443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55402,6 +55444,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1711794243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55894,6 +55937,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1724407868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56380,6 +56424,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1739389698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56683,6 +56728,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1742860385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57443,6 +57489,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1768496767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58316,6 +58363,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1802202876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58597,6 +58645,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1817329200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58821,6 +58870,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1819211591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59775,6 +59825,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1838196812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60123,6 +60174,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1852143343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60504,6 +60556,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1864008287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60886,6 +60939,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1868186818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61270,6 +61324,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1877898764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61494,6 +61549,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1879588762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61789,6 +61845,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1883731546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62051,6 +62108,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1892130159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62510,6 +62568,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1898097420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62734,6 +62793,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1902481701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63033,6 +63093,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1904114400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63336,6 +63397,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1908389409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63634,6 +63696,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1929600660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63888,6 +63951,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1937408825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64112,6 +64176,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1938487303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64551,6 +64616,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1946313287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64625,175 +64691,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1946313283}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1948701760
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1948701761}
-  - component: {fileID: 1948701764}
-  - component: {fileID: 1948701763}
-  - component: {fileID: 1948701762}
-  m_Layer: 5
-  m_Name: Volume%
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1948701761
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1948701760}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1280815790}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.9999995, y: 4.5}
-  m_SizeDelta: {x: 42.75775, y: 24.97818}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1948701762
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1948701760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ffd91cdc56212b41a514987ed02ee07, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1948701763
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1948701760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 0%
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_outlineColor:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontSize: 25
-  m_fontSizeBase: 25
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_textAlignment: 257
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
-  m_linkedTextComponent: {fileID: 0}
-  m_isLinkedTextComponent: 0
-  m_isTextTruncated: 0
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_ignoreRectMaskCulling: 0
-  m_ignoreCulling: 1
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_VertexBufferAutoSizeReduction: 1
-  m_firstVisibleCharacter: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_textInfo:
-    textComponent: {fileID: 1948701763}
-    characterCount: 2
-    spriteCount: 0
-    spaceCount: 0
-    wordCount: 1
-    linkCount: 0
-    lineCount: 1
-    pageCount: 1
-    materialCount: 1
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_spriteAnimator: {fileID: 0}
-  m_hasFontAssetChanged: 0
-  m_subTextObjects:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1948701764
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1948701760}
-  m_CullTransparentMesh: 0
 --- !u!1 &1948867221
 GameObject:
   m_ObjectHideFlags: 0
@@ -65241,6 +65138,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1989522986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65465,6 +65363,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &1991995407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65999,6 +65898,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2000378323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66223,6 +66123,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2000398319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66824,6 +66725,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2016631080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66977,6 +66879,99 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1, y: 1.1, z: 1.1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2017178601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2017178602}
+  - component: {fileID: 2017178605}
+  - component: {fileID: 2017178604}
+  - component: {fileID: 2017178603}
+  m_Layer: 5
+  m_Name: Volume%
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2017178602
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017178601}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1280815790}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 5, y: -3}
+  m_SizeDelta: {x: 85.570404, y: 31.512173}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2017178603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017178601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ffd91cdc56212b41a514987ed02ee07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2017178604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017178601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.9716981, g: 0.9716981, b: 0.9716981, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 25
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 1
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: '100%
+
+'
+--- !u!222 &2017178605
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017178601}
+  m_CullTransparentMesh: 0
 --- !u!1 &2017549245
 GameObject:
   m_ObjectHideFlags: 0
@@ -67127,6 +67122,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2017549249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67448,7 +67444,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 195100864}
-  - {fileID: 803871624}
   m_Father: {fileID: 276448151}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -67968,6 +67963,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2048061605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68706,6 +68702,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2075641500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69416,7 +69413,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &2120206025
 GameObject:
@@ -70070,6 +70067,7 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
+  audio: {fileID: 0}
 --- !u!114 &2142094649
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -5,6 +5,7 @@
     using UnityEngine.UI;
     using VRTK.Controllables;
     using System;
+    using UnityEngine.Assertions.Must;
 
     public class ControllableReactor : MonoBehaviour
     {
@@ -13,6 +14,7 @@
         public Text displayText;
         public string outputOnMax = "Maximum Reached";
         public string outputOnMin = "Minimum Reached";
+        public AudioSource audio;
 
         protected virtual void OnEnable()
         {
@@ -40,7 +42,7 @@
         {
            
             FindObjectOfType<AudioManager>().Play(this.name);
-
+            
             if (outputOnMax != "")
             {
                 Debug.Log(outputOnMax);
@@ -49,7 +51,7 @@
 
         protected virtual void MinLimitReached(object sender, ControllableEventArgs e)
         {
-
+            
 
             if (outputOnMin != "")
             {

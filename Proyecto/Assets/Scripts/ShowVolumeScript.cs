@@ -13,6 +13,6 @@ public class ShowVolumeScript : MonoBehaviour
 
     public void TextUpdate(float value)
     {
-        percentageText.text = Mathf.RoundToInt(value * 100) + "%";
+        percentageText.text = Mathf.RoundToInt(value + 80) + "%";
     }
 }
