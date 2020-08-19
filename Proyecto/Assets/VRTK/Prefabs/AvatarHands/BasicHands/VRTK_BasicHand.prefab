@@ -430,8 +430,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1304151215898682}
   m_LocalRotation: {x: 0.17927602, y: 0.01907303, z: -0.07598522, w: 0.98067456}
-  m_LocalPosition: {x: 4.307367e-11, y: 0.00033730656, z: 1.1641532e-12}
-  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_LocalPosition: {x: 0, y: 0.00033730656, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4531848624766692}
   m_Father: {fileID: 4319160110520870}
@@ -769,7 +769,6 @@ GameObject:
   - component: {fileID: 4726844815573086}
   - component: {fileID: 95718739528495300}
   - component: {fileID: 114963189862696322}
-  - component: {fileID: 2755723329303257661}
   m_Layer: 0
   m_Name: VRTK_BasicHand
   m_TagString: Untagged
@@ -905,19 +904,6 @@ MonoBehaviour:
   interactTouch: {fileID: 0}
   interactGrab: {fileID: 0}
   interactUse: {fileID: 0}
---- !u!65 &2755723329303257661
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469220889570388}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.14984563, y: 0.030836284, z: 0.21447742}
-  m_Center: {x: -0.021009948, y: 0.006235987, z: 0.10640228}
 --- !u!1 &1475728512817002
 GameObject:
   m_ObjectHideFlags: 0
@@ -1050,6 +1036,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4989641297664924}
+  - component: {fileID: 1059171275308174572}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Index_3
   m_TagString: Untagged
@@ -1072,6 +1059,20 @@ Transform:
   m_Father: {fileID: 4556298815442742}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &1059171275308174572
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1556339427087150}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.00012725535
+  m_Height: 0.0011755244
+  m_Direction: 1
+  m_Center: {x: 0.000006385352, y: 0.00025771107, z: 0.000042312076}
 --- !u!1 &1587673880008760
 GameObject:
   m_ObjectHideFlags: 0
@@ -1111,6 +1112,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4067447437714518}
+  - component: {fileID: 1984266513584234828}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Pinkie_3
   m_TagString: Untagged
@@ -1125,14 +1127,28 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1591272679653362}
-  m_LocalRotation: {x: 0.04883287, y: -0.037906032, z: 0.04340974, w: 0.997143}
+  m_LocalRotation: {x: 0.0075958325, y: -0.039667055, z: 0.041806635, w: 0.9983091}
   m_LocalPosition: {x: 3.3396643e-11, y: 0.00006900988, z: 1.16415315e-11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4291014158247542}
   m_Father: {fileID: 4545413325927090}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 1.059, y: -4.5070004, z: 4.754}
+--- !u!136 &1984266513584234828
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591272679653362}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.00012725535
+  m_Height: 0.0007790654
+  m_Direction: 1
+  m_Center: {x: 0.000006386402, y: 0.0002634886, z: 0.000042323503}
 --- !u!1 &1620706546805496
 GameObject:
   m_ObjectHideFlags: 0
@@ -1303,6 +1319,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4531848624766692}
+  - component: {fileID: 7474349206111873003}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Thumb_3
   m_TagString: Untagged
@@ -1325,6 +1342,20 @@ Transform:
   m_Father: {fileID: 4981237587957216}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &7474349206111873003
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679763963463108}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.0001387354
+  m_Height: 0.00076726987
+  m_Direction: 1
+  m_Center: {x: -0.000012781019, y: 0.00012000459, z: -0.0000051117645}
 --- !u!1 &1708268698332586
 GameObject:
   m_ObjectHideFlags: 0
@@ -1459,6 +1490,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4884042871165928}
+  - component: {fileID: 4057027316716453693}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Ring_3
   m_TagString: Untagged
@@ -1481,6 +1513,20 @@ Transform:
   m_Father: {fileID: 4381421865835424}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &4057027316716453693
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768370560387996}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.00012725536
+  m_Height: 0.0009447098
+  m_Direction: 1
+  m_Center: {x: 0.0000063852085, y: 0.00033412562, z: 0.00004231792}
 --- !u!1 &1812289512735356
 GameObject:
   m_ObjectHideFlags: 0
@@ -1630,6 +1676,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4731714980939906}
+  - component: {fileID: 5495167801340735468}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Palm
   m_TagString: Untagged
@@ -1656,6 +1703,20 @@ Transform:
   m_Father: {fileID: 4062987850226086}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &5495167801340735468
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1869784272461842}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.0003697431
+  m_Height: 0.00092738104
+  m_Direction: 1
+  m_Center: {x: -0.00005013788, y: -0.000009377446, z: 0.00006680444}
 --- !u!1 &1937369400946318
 GameObject:
   m_ObjectHideFlags: 0
@@ -1743,6 +1804,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4078179695666178}
+  - component: {fileID: 4794699228853582509}
   m_Layer: 0
   m_Name: VRTK_Hand_Bone_Middle_3
   m_TagString: Untagged
@@ -1765,6 +1827,20 @@ Transform:
   m_Father: {fileID: 4089660411005556}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &4794699228853582509
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971218870299000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.00012725536
+  m_Height: 0.0010598324
+  m_Direction: 1
+  m_Center: {x: 0.0000063852003, y: 0.00033085808, z: 0.00004231343}
 --- !u!1 &1971788217622184
 GameObject:
   m_ObjectHideFlags: 0
