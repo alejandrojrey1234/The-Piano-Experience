@@ -14,7 +14,9 @@
         public Text displayText;
         public string outputOnMax = "Maximum Reached";
         public string outputOnMin = "Minimum Reached";
-        public AudioSource audio;
+        public Sound s;
+        public AudioManager sm;
+        public AudioSource asource;
 
         protected virtual void OnEnable()
         {
@@ -51,7 +53,9 @@
 
         protected virtual void MinLimitReached(object sender, ControllableEventArgs e)
         {
-            
+            FindObjectOfType<AudioSource>().volume = 0f;
+            s.volume = 0f;
+            asource.volume = 0f;
 
             if (outputOnMin != "")
             {
