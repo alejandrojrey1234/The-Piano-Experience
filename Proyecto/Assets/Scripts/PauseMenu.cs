@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using VRTK;
 
 public class PauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
+    public GameObject DesactivarMovimiento;
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.P))
@@ -27,7 +29,6 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
-        Time.timeScale = 1;
         GameIsPaused = false;
         Cursor.visible = false;
     }
@@ -35,7 +36,6 @@ public class PauseMenu : MonoBehaviour
     void Pause()
     {
         pauseMenuUI.SetActive(true);
-        Time.timeScale = 0;
         GameIsPaused = true;
         Cursor.visible = true;
     }
@@ -43,7 +43,6 @@ public class PauseMenu : MonoBehaviour
     public void LoadMenu()
     {
         SceneManager.LoadScene(0);
-        Time.timeScale = 1f;
     }
 
     public void QuitGame()
@@ -53,7 +52,6 @@ public class PauseMenu : MonoBehaviour
 
     public void ScenesMenu()
     {
-        Time.timeScale = 1f;
         SceneManager.LoadScene(1);
     }
 }

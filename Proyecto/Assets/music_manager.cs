@@ -16,7 +16,13 @@ public class music_manager : MonoBehaviour
 
         list = new AudioClip[] {
            (AudioClip)Resources.Load("Musica_numerada/5% Tint - Travis Scott"),
-           (AudioClip)Resources.Load("Musica_numerada/Butterfly Effect - Travis Scott")
+           (AudioClip)Resources.Load("Musica_numerada/Butterfly Effect - Travis Scott"),
+           (AudioClip)Resources.Load("Musica_numerada/Giorno's Theme (Piano Cover)"),
+           (AudioClip)Resources.Load("Musica_numerada/Santo & Johnny - Sleep walk"),
+           (AudioClip)Resources.Load("Musica_numerada/Anakin's Betrayal (Piano Cover)"),
+           (AudioClip)Resources.Load("Musica_numerada/dusty"),
+           (AudioClip)Resources.Load("Musica_numerada/Endless Mind"),
+           (AudioClip)Resources.Load("Musica_numerada/Just Wanted to Tell You")
       };
         songNumber = Random.Range(0, list.Length);
         audio = GetComponent<AudioSource>();

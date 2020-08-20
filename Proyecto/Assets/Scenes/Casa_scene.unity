@@ -350,7 +350,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1526851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -935,7 +941,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &21389018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1160,7 +1172,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &22982463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1741,7 +1759,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &43475413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2173,7 +2197,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &62315530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2581,7 +2611,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &87491724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3073,7 +3109,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &98282864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3552,7 +3594,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &115933078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3777,7 +3825,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &116015009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4172,7 +4226,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &120062844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4811,7 +4871,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &135482213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5036,7 +5102,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &142095457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5748,7 +5820,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &167190235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6385,7 +6463,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &202887558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6733,7 +6817,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &205025479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7032,7 +7122,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &214702716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7415,7 +7511,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &233366494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7640,7 +7742,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &236862114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8186,7 +8294,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &242448503
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8585,7 +8699,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &250240704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9269,7 +9389,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &261628393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9652,7 +9778,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &272571562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9877,7 +10009,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &275404037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10340,7 +10478,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &298556589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10565,7 +10709,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &300078159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11170,7 +11320,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &320824676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11474,7 +11630,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &338406392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11699,7 +11861,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &344664303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12143,7 +12311,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &355872833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12368,7 +12542,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &365450315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12672,7 +12852,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &367884377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13030,7 +13216,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &384508883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13341,7 +13533,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &397213711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13804,7 +14002,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &415203434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14029,7 +14233,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &418255797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14577,7 +14787,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &439933204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14954,7 +15170,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &447514849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15319,7 +15541,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &452418380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15623,7 +15851,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &457024751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15970,7 +16204,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &466433825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16422,7 +16662,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &487147759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17068,7 +17314,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &512200732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17650,7 +17902,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &534290565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18086,7 +18344,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &544988268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18573,7 +18837,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &588207575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18958,7 +19228,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &593946483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19980,7 +20256,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &639006964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20650,7 +20932,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &675326759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21325,7 +21613,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &705990345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21586,7 +21880,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &710892595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21969,7 +22269,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &729277819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22738,7 +23044,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &784163622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23042,7 +23354,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &791945702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23267,7 +23585,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &795342022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23823,7 +24147,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &809302316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24322,7 +24652,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &827657040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24793,6 +25129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 1530104290}
+  DesactivarMovimiento: {fileID: 2011499357}
 --- !u!114 &831687792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25103,7 +25440,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &840159467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25689,7 +26032,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &868815298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25993,7 +26342,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &874120330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26218,7 +26573,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &875061448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26473,7 +26834,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &879664026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27476,7 +27843,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &955945905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27701,7 +28074,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &959107523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28036,7 +28415,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &964103953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28315,7 +28700,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &973968690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29484,7 +29875,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1014667762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29709,7 +30106,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1026731084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29934,7 +30337,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1043752737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30234,7 +30643,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1048082140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30459,7 +30874,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1048293570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30684,7 +31105,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1051786121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30909,7 +31336,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1061935689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31445,7 +31878,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1094828324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31670,7 +32109,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1096917145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32229,7 +32674,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1101527033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32454,7 +32905,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1105387299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32832,7 +33289,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1111493996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33136,7 +33599,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1113851709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33519,7 +33988,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1118733599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33823,7 +34298,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1120148559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34048,7 +34529,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1123564781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34618,7 +35105,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1161785347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34843,7 +35336,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1163036412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35068,7 +35567,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1168312024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35293,7 +35798,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1169116861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35476,22 +35987,6 @@ MonoBehaviour:
   objectHighlighter: {fileID: 0}
   touchHighlightColor: {r: 0, g: 0, b: 0, a: 0}
   usingState: 0
---- !u!54 &1175433570
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1175433566}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!65 &1175433574
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35848,7 +36343,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1179260749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36073,7 +36574,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1180108320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36298,7 +36805,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1181138242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36820,7 +37333,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1192908700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37124,7 +37643,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1205585754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37428,7 +37953,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1211666940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37732,7 +38263,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1224454918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37957,7 +38494,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1232601714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38341,7 +38884,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1250352872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39674,7 +40223,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1285453400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39979,7 +40534,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1293688418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40308,7 +40869,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1313930747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40517,22 +41084,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.012610919, y: 0.0068167043, z: 0.010798553}
   m_Center: {x: 0, y: 0.0000000018626451, z: -0.0000000023283064}
---- !u!54 &1320559218
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1320559212}
-  serializedVersion: 2
-  m_Mass: 10
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!114 &1320559219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40695,7 +41246,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1324132290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41184,7 +41741,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1345046053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41488,7 +42051,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1348466779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41871,7 +42440,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1356788090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42175,7 +42750,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1379836631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42400,7 +42981,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1380249375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42765,7 +43352,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1384107644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42990,7 +43583,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1390695048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43845,7 +44444,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1421981065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44070,7 +44675,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1423111528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44330,7 +44941,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1424705841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44975,7 +45592,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1443221790
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45254,7 +45877,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1449519560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45739,7 +46368,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1454918309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46052,7 +46687,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1473525665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46894,7 +47535,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1497997416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47347,7 +47994,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1504311899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47572,7 +48225,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1507327591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48012,7 +48671,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1529189624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48972,7 +49637,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1553109311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49596,7 +50267,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1566993176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50144,7 +50821,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1574183388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50477,7 +51160,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1599304249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50786,7 +51475,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1604225000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51011,7 +51706,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1605295223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51551,7 +52252,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1618530823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52075,7 +52782,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1636958666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52300,7 +53013,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1640819794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52634,7 +53353,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1645897488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53237,7 +53962,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1665891991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53462,7 +54193,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1666564952
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53687,7 +54424,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1681059859
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53912,7 +54655,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1682363247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54395,7 +55144,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1688594725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54620,7 +55375,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1690406772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54845,7 +55606,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1697517153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55070,7 +55837,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1703198635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55402,7 +56175,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1704975443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55627,7 +56406,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1711794243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56046,7 +56831,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1724407868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56430,7 +57221,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1739389698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56734,7 +57531,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1742860385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57552,7 +58355,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1768496767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58336,7 +59145,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1802202876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58561,7 +59376,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1817329200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58786,7 +59607,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1819211591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59109,22 +59936,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.04966074, y: 0.20008075, z: 0.048739914}
   m_Center: {x: -0.25180954, y: 0.10006587, z: -0.45066774}
---- !u!54 &1829506086
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1829506081}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!65 &1829506087
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59636,7 +60447,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1838196812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59940,7 +60757,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1852143343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60165,7 +60988,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1864008287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60548,7 +61377,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1868186818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60899,7 +61734,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1877898764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61124,7 +61965,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1879588762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61349,7 +62196,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1883731546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61574,7 +62427,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1892130159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61878,7 +62737,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1898097420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62103,7 +62968,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1902481701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62403,7 +63274,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1904114400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62707,7 +63584,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1908389409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62977,7 +63860,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1929600660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63202,7 +64091,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1937408825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63427,7 +64322,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1938487303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63879,7 +64780,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1946313287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64584,7 +65491,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1989522986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64809,7 +65722,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &1991995407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65206,7 +66125,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2000378323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65431,7 +66356,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2000398319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66202,7 +67133,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2016631080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66506,7 +67443,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2017549249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67029,7 +67972,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2048061605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67404,7 +68353,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2075641500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69148,7 +70103,13 @@ MonoBehaviour:
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  audio: {fileID: 0}
+  s:
+    nombre: 
+    clip: {fileID: 0}
+    volume: 0
+    pitch: 0
+  sm: {fileID: 0}
+  asource: {fileID: 0}
 --- !u!114 &2142094649
 MonoBehaviour:
   m_ObjectHideFlags: 0
