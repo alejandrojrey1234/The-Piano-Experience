@@ -59,11 +59,11 @@ public class music_manager : MonoBehaviour
 
     public void Pausar()
     {
-        if (audioSource.isPlaying)
-        {
+        //if (audioSource.isPlaying)
+        //{
             audioSource.Pause();
             Debug.Log("pausa");
-        }
+        //}
     }
 
     public void Back()
