@@ -2,12 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using System;
+using System.Linq.Expressions;
 
 public class music_manager : MonoBehaviour
 {
     public AudioClip[] list;
-    int songNumber;
-    AudioSource audio;
+    public int songNumber;
+    [SerializeField]
+    public AudioSource audioSource;
     public TMP_Text texto;
 
     // Start is called before the first frame update
@@ -23,23 +26,66 @@ public class music_manager : MonoBehaviour
            (AudioClip)Resources.Load("Musica_numerada/Endless Mind"),
            (AudioClip)Resources.Load("Musica_numerada/Just Wanted to Tell You")
       };
-        songNumber = Random.Range(0, list.Length);
-        audio = GetComponent<AudioSource>();
-        audio.clip = list[songNumber];
-        audio.Play();
+        songNumber = UnityEngine.Random.Range(0, list.Length);
+        audioSource = GetComponent<AudioSource>();
+        audioSource.clip = list[songNumber];
+        audioSource.Play();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (audio.isPlaying == false)
+        if (audioSource.isPlaying == false)
         {
-            songNumber = Random.Range(0, list.Length);
+            songNumber = UnityEngine.Random.Range(0, list.Length);
 
-            audio.clip = list[songNumber];
-            audio.Play();
+            audioSource.clip = list[songNumber];
+            audioSource.Play();
         }
 
-        texto.text = "Music: " + audio.clip.name;
+        texto.text = "Music: " + audioSource.clip.name;
+    }
+
+
+    
+    public void Play()
+    {
+        if (audioSource.isPlaying == false)
+        {
+            audioSource.UnPause();
+            Debug.Log("play");
+        }
+    }
+
+    public void Pause()
+    {
+        if (audioSource.isPlaying)
+        {
+            audioSource.Pause();
+            Debug.Log("pausa");
+        }
+    }
+
+    public void Back()
+    {
+       Debug.Log("play anterior");
+       audioSource.Stop();
+      if(audioSource.time < 2.5)
+        {
+            audioSource.clip = list[songNumber--];
+            Debug.Log("entra");
+            //audioSource.Play();
+
+        }
+        
+        audioSource.Play();
+    }
+
+
+    public void Skip()
+    {
+        audioSource.clip = list[songNumber++];
+        audioSource.Play();
+        Debug.Log("skip");
     }
 }
