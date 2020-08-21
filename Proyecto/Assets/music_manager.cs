@@ -48,7 +48,7 @@ public class music_manager : MonoBehaviour
 
 
     
-    public void Play()
+    public void Playear()
     {
         if (audioSource.isPlaying == false)
         {
@@ -57,7 +57,7 @@ public class music_manager : MonoBehaviour
         }
     }
 
-    public void Pause()
+    public void Pausar()
     {
         if (audioSource.isPlaying)
         {
