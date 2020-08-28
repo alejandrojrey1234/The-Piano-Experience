@@ -345,18 +345,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1526851}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1526851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -913,18 +905,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 21389018}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &21389018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1144,18 +1128,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 22982463}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &22982463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1684,18 +1660,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 43475413}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &43475413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2105,18 +2073,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 62315530}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &62315530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2556,18 +2516,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 87491724}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &87491724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2866,18 +2818,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 98282864}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &98282864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3223,18 +3167,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 115933078}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &115933078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3454,18 +3390,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 116015009}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &116015009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3579,7 +3507,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 119920931}
-  - component: {fileID: 119920932}
   m_Layer: 0
   m_Name: Octava 3
   m_TagString: Untagged
@@ -3613,103 +3540,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &119920932
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 119920930}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &120062840
 GameObject:
   m_ObjectHideFlags: 0
@@ -3855,18 +3685,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 120062844}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &120062844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4558,18 +4380,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 135482213}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &135482213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4789,18 +4603,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 142095457}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &142095457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5420,18 +5226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 167190235}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &167190235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5900,7 +5698,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 200213063}
-  - component: {fileID: 200213064}
   m_Layer: 0
   m_Name: Octava 4
   m_TagString: Untagged
@@ -5934,103 +5731,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &200213064
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 200213062}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &202887554
 GameObject:
   m_ObjectHideFlags: 0
@@ -6176,18 +5876,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 202887558}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &202887558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6407,18 +6099,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 205025479}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &205025479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6717,18 +6401,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 214702716}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &214702716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7149,18 +6825,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 233366494}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &233366494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7380,18 +7048,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 236862114}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &236862114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7840,18 +7500,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 242448503}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &242448503
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8150,18 +7802,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 250240704}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &250240704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8727,18 +8371,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 261628393}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &261628393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9116,18 +8752,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 272571562}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &272571562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9347,18 +8975,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 275404037}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &275404037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9883,18 +9503,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 298556589}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &298556589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10114,18 +9726,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 300078159}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &300078159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10379,10 +9983,10 @@ RectTransform:
   m_Father: {fileID: 317351668}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 66, y: -55}
+  m_SizeDelta: {x: 132, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &302594946
 MonoBehaviour:
@@ -10804,10 +10408,10 @@ RectTransform:
   m_Father: {fileID: 1627873265}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 71, y: -82}
+  m_SizeDelta: {x: 132, y: 66}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &317351669
 MonoBehaviour:
@@ -11165,18 +10769,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 320824676}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &320824676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11396,18 +10992,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 338406392}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &338406392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11627,18 +11215,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 344664303}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &344664303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11722,7 +11302,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 347791584}
-  - component: {fileID: 347791585}
   m_Layer: 0
   m_Name: Octava 3
   m_TagString: Untagged
@@ -11756,103 +11335,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &347791585
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347791583}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &347873139
 GameObject:
   m_ObjectHideFlags: 0
@@ -12230,18 +11712,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 355872833}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &355872833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12535,18 +12009,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 365450315}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &365450315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12845,18 +12311,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 367884377}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &367884377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13209,18 +12667,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 384508883}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &384508883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13476,18 +12926,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 397213711}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &397213711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13897,18 +13339,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 415203434}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &415203434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14128,18 +13562,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 418255797}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &418255797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14223,7 +13649,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 425003378}
-  - component: {fileID: 425003379}
   m_Layer: 0
   m_Name: Octava 7
   m_TagString: Untagged
@@ -14257,103 +13682,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &425003379
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 425003377}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &426521647
 GameObject:
   m_ObjectHideFlags: 0
@@ -14854,18 +14182,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 439933204}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &439933204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15237,18 +14557,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 447514849}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &447514849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15332,7 +14644,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 451442460}
-  - component: {fileID: 451442461}
   m_Layer: 0
   m_Name: Octava 6
   m_TagString: Untagged
@@ -15366,103 +14677,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &451442461
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 451442459}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &452418376
 GameObject:
   m_ObjectHideFlags: 0
@@ -15608,18 +14822,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 452418380}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &452418380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16088,18 +15294,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 457024751}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &457024751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16398,18 +15596,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 466433825}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &466433825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16818,18 +16008,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 487147759}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &487147759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17316,18 +16498,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 512200732}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &512200732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17748,18 +16922,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 534290565}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &534290565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18137,18 +17303,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 544988268}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &544988268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18823,18 +17981,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 588207575}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &588207575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19238,18 +18388,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 593946483}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &593946483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19632,7 +18774,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 622415946}
-  - component: {fileID: 622415947}
   m_Layer: 0
   m_Name: Octava 5
   m_TagString: Untagged
@@ -19666,103 +18807,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &622415947
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 622415945}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1001 &625124582
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20123,18 +19167,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 639006964}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &639006964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20990,18 +20026,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 675326759}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &675326759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21112,10 +20140,10 @@ RectTransform:
   m_Father: {fileID: 317351668}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 66, y: -30}
+  m_SizeDelta: {x: 132, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &675486845
 MonoBehaviour:
@@ -21678,18 +20706,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 705990345}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &705990345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21909,18 +20929,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 710892595}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &710892595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22298,18 +21310,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 729277819}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &729277819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22741,7 +21745,6 @@ Transform:
   m_LocalPosition: {x: 0, y: -11.93, z: -1.61}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1042887578}
   - {fileID: 943127809}
   - {fileID: 1546016539}
   m_Father: {fileID: 0}
@@ -23120,10 +22123,10 @@ RectTransform:
   m_Father: {fileID: 675486844}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 66, y: -11}
+  m_SizeDelta: {x: 44, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &781599752
 MonoBehaviour:
@@ -23311,18 +22314,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 784163622}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &784163622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23621,18 +22616,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 791945702}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &791945702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23852,18 +22839,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 795342022}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &795342022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24247,18 +23226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 809302316}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &809302316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24682,18 +23653,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 827657040}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &827657040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24870,7 +23833,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 829521134}
-  - component: {fileID: 829521135}
   m_Layer: 0
   m_Name: Teclas
   m_TagString: Untagged
@@ -24899,103 +23861,6 @@ Transform:
   m_Father: {fileID: 301304707}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &829521135
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 829521133}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &829839505
 GameObject:
   m_ObjectHideFlags: 0
@@ -25492,18 +24357,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 840159467}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &840159467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26142,18 +24999,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 868815298}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &868815298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26452,18 +25301,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 874120330}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &874120330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26683,18 +25524,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 875061448}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &875061448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26914,18 +25747,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 879664026}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &879664026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27771,7 +26596,7 @@ Transform:
   m_Children:
   - {fileID: 1979407944}
   m_Father: {fileID: 769038651}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &943127810
 MonoBehaviour:
@@ -28172,18 +26997,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 955945905}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &955945905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28403,18 +27220,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 959107523}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &959107523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28802,18 +27611,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 964103953}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &964103953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29255,18 +28056,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 973968690}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &973968690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30220,7 +29013,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1014667758}
   m_LocalRotation: {x: 0, y: 0.60876137, z: 0, w: 0.7933534}
-  m_LocalPosition: {x: 1.215, y: 0.126, z: -0.614}
+  m_LocalPosition: {x: 1.215, y: 0.126, z: -0.613}
   m_LocalScale: {x: 0.189, y: 0.05, z: 0.035}
   m_Children:
   - {fileID: 2021396881}
@@ -30336,18 +29129,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1014667762}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1014667762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30567,18 +29352,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1026731084}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1026731084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30812,51 +29589,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1032932229}
   m_CullTransparentMesh: 0
---- !u!1 &1042887577
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1042887578}
-  - component: {fileID: 1042887579}
-  m_Layer: 0
-  m_Name: SceneSwitcher
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1042887578
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1042887577}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 769038651}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1042887579
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1042887577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48cee710ccfd4564fba2718900f56c57, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  backKey: 8
-  forwardKey: 32
 --- !u!1 &1043752733
 GameObject:
   m_ObjectHideFlags: 0
@@ -31002,18 +29734,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1043752737}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1043752737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31120,10 +29844,10 @@ RectTransform:
   m_Father: {fileID: 317351668}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 66, y: -8}
+  m_SizeDelta: {x: 132, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1045306697
 MonoBehaviour:
@@ -31311,18 +30035,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1048082140}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1048082140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31542,18 +30258,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1048293570}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1048293570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31773,18 +30481,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1051786121}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1051786121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32004,18 +30704,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1061935689}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1061935689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32122,10 +30814,10 @@ RectTransform:
   m_Father: {fileID: 302594945}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 66, y: -11}
+  m_SizeDelta: {x: 121, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1063632633
 MonoBehaviour:
@@ -32624,18 +31316,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1094828324}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1094828324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32855,18 +31539,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1096917145}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1096917145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33245,18 +31921,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1101527033}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1101527033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33476,18 +32144,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1105387299}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1105387299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33786,18 +32446,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1111493996}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1111493996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34096,18 +32748,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1113851709}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1113851709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34515,18 +33159,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1118733599}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1118733599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34825,18 +33461,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1120148559}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1120148559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35056,18 +33684,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1123564781}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1123564781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35614,18 +34234,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1161785347}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1161785347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35845,18 +34457,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1163036412}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1163036412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36106,18 +34710,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1168312024}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1168312024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36337,18 +34933,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1169116861}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1169116861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36652,18 +35240,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1179260749}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1179260749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36883,18 +35463,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1180108320}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1180108320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37114,18 +35686,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1181138242}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1181138242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37490,18 +36054,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1192908700}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1192908700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37800,18 +36356,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1205585754}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1205585754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38267,18 +36815,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1211666940}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1211666940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38796,18 +37336,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1224454918}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1224454918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39063,18 +37595,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1232601714}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1232601714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39453,18 +37977,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1250352872}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1250352872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40445,7 +38961,6 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 69661b3dd6b3c684e9ab27a91390a3f6, type: 3}
     volume: 1
     pitch: 1
-  Reproductorsonido: {fileID: 1572156298}
 --- !u!4 &1279962381
 Transform:
   m_ObjectHideFlags: 0
@@ -40605,18 +39120,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1285453400}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1285453400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40836,18 +39343,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1293688418}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1293688418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41253,18 +39752,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1313930747}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1313930747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41568,18 +40059,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1324132290}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1324132290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42192,18 +40675,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1345046053}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1345046053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42502,18 +40977,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1348466779}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1348466779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42891,18 +41358,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1356788090}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1356788090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43091,10 +41550,10 @@ RectTransform:
   m_Father: {fileID: 1627873265}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 71, y: -25.5}
+  m_SizeDelta: {x: 124, y: 41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1375527698
 MonoBehaviour:
@@ -43294,18 +41753,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1379836631}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1379836631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43525,18 +41976,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1380249375}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1380249375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43620,7 +42063,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1381940063}
-  - component: {fileID: 1381940064}
   m_Layer: 0
   m_Name: Octave 7
   m_TagString: Untagged
@@ -43654,103 +42096,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1381940064
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1381940062}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1384107640
 GameObject:
   m_ObjectHideFlags: 0
@@ -43896,18 +42241,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1384107644}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1384107644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44201,18 +42538,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1390695048}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1390695048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44971,18 +43300,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1421981065}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1421981065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45202,18 +43523,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1423111528}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1423111528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45433,18 +43746,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1424705841}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1424705841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45680,7 +43985,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1439333343}
-  - component: {fileID: 1439333344}
   m_Layer: 0
   m_Name: Octava 6
   m_TagString: Untagged
@@ -45714,103 +44018,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1439333344
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1439333342}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1440959086
 GameObject:
   m_ObjectHideFlags: 0
@@ -46242,18 +44449,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1443221790}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1443221790
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46527,18 +44726,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1449519560}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1449519560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46758,18 +44949,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1454918309}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1454918309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47084,18 +45267,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1473525665}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1473525665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47360,10 +45535,10 @@ RectTransform:
   m_Father: {fileID: 1805623868}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 62, y: -11}
+  m_SizeDelta: {x: 114, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1488702334
 MonoBehaviour:
@@ -47709,18 +45884,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1497997416}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1497997416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48211,18 +46378,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1504311899}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1504311899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48442,18 +46601,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1507327591}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1507327591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48892,7 +47043,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1526403108}
-  - component: {fileID: 1526403109}
   m_Layer: 0
   m_Name: Octava 5
   m_TagString: Untagged
@@ -48926,103 +47076,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1526403109
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1526403107}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1529189620
 GameObject:
   m_ObjectHideFlags: 0
@@ -49168,18 +47221,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1529189624}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1529189624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49451,7 +47496,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1533185719
 RectTransform:
   m_ObjectHideFlags: 0
@@ -50007,7 +48052,7 @@ Transform:
   m_Children:
   - {fileID: 629937346}
   m_Father: {fileID: 769038651}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1549455184
 PrefabInstance:
@@ -50117,7 +48162,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1553109307}
   m_LocalRotation: {x: 0, y: 0.60876137, z: 0, w: 0.7933534}
-  m_LocalPosition: {x: 1.143, y: 0.126, z: -0.634}
+  m_LocalPosition: {x: 1.144, y: 0.126, z: -0.635}
   m_LocalScale: {x: 0.189, y: 0.05, z: 0.035}
   m_Children:
   - {fileID: 27355771}
@@ -50233,18 +48278,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1553109311}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1553109311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50485,7 +48522,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1564740954}
-  - component: {fileID: 1564740953}
   m_Layer: 0
   m_Name: Octava 2
   m_TagString: Untagged
@@ -50493,103 +48529,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!82 &1564740953
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1564740952}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!4 &1564740954
 Transform:
   m_ObjectHideFlags: 0
@@ -50840,18 +48779,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1566993176}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1566993176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51014,7 +48945,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1572156297}
-  - component: {fileID: 1572156298}
   m_Layer: 0
   m_Name: Teclas
   m_TagString: Untagged
@@ -51043,103 +48973,6 @@ Transform:
   m_Father: {fileID: 189320853}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90.47099, y: 90, z: 90.005}
---- !u!82 &1572156298
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572156296}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1001 &1572692423
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51364,18 +49197,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1574183388}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1574183388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51749,18 +49574,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1599304249}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1599304249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52064,18 +49881,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1604225000}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1604225000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52295,18 +50104,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1605295223}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1605295223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52684,18 +50485,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1618530823}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1618530823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52779,7 +50572,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1619513747}
-  - component: {fileID: 1619513748}
   m_Layer: 0
   m_Name: Octava 4
   m_TagString: Untagged
@@ -52813,103 +50605,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1619513748
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1619513746}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1627873264
 GameObject:
   m_ObjectHideFlags: 0
@@ -52945,10 +50640,10 @@ RectTransform:
   m_Father: {fileID: 816560823}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1074, y: -70}
+  m_SizeDelta: {x: 142, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1627873266
 MonoBehaviour:
@@ -53157,18 +50852,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1636958666}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1636958666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53388,18 +51075,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1640819794}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1640819794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53698,18 +51377,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1645897488}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1645897488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54217,18 +51888,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1665891991}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1665891991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54448,18 +52111,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1666564952}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1666564952
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54741,18 +52396,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1681059859}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1681059859
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54972,18 +52619,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1682363247}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1682363247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55203,18 +52842,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1688594725}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1688594725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55434,18 +53065,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1690406772}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1690406772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55744,18 +53367,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1697517153}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1697517153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56048,18 +53663,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1703198635}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1703198635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56279,18 +53886,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1704975443}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1704975443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56546,18 +54145,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1711794243}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1711794243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56725,7 +54316,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1719380606}
-  - component: {fileID: 1719380607}
   m_Layer: 0
   m_Name: Octava 1
   m_TagString: Untagged
@@ -56759,103 +54349,6 @@ Transform:
   m_Father: {fileID: 829521134}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1719380607
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1719380605}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 1044617050608521755, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1724407864
 GameObject:
   m_ObjectHideFlags: 0
@@ -57001,18 +54494,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1724407868}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1724407868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57391,18 +54876,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1739389698}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1739389698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57701,18 +55178,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1742860385}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1742860385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58632,18 +56101,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1768496767}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1768496767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58894,7 +56355,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1779407416
 RectTransform:
   m_ObjectHideFlags: 0
@@ -59200,18 +56661,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1802202876}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1802202876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59322,10 +56775,10 @@ RectTransform:
   m_Father: {fileID: 1375527697}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 62, y: -30}
+  m_SizeDelta: {x: 124, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1805623869
 MonoBehaviour:
@@ -59896,18 +57349,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1817329200}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1817329200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60127,18 +57572,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1819211591}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1819211591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60946,18 +58383,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1838196812}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1838196812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61256,18 +58685,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1852143343}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1852143343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61547,18 +58968,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1864008287}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1864008287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61936,18 +59349,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1868186818}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1868186818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62252,18 +59657,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1877898764}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1877898764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62483,18 +59880,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1879588762}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1879588762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62789,18 +60178,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1883731546}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1883731546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63020,18 +60401,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1892130159}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1892130159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63330,18 +60703,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1898097420}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1898097420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63561,18 +60926,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1902481701}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1902481701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63867,18 +61224,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1904114400}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1904114400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64177,18 +61526,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1908389409}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1908389409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64295,10 +61636,10 @@ RectTransform:
   m_Father: {fileID: 1375527697}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 62, y: -8}
+  m_SizeDelta: {x: 121, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1911686611
 MonoBehaviour:
@@ -64552,18 +61893,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1929600660}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1929600660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64862,18 +62195,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1937408825}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1937408825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65093,18 +62418,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1938487303}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1938487303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65465,18 +62782,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1946313287}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1946313287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65596,7 +62905,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1968934184}
-  - component: {fileID: 1968934185}
   m_Layer: 0
   m_Name: Octava 1
   m_TagString: Untagged
@@ -65630,103 +62938,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &1968934185
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1968934183}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1979407943 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1469220889570388, guid: afec65f27dcd2c74cba31fc61eea61e6,
@@ -65961,18 +63172,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1989522986}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1989522986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66192,18 +63395,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 1991995407}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &1991995407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66595,18 +63790,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2000378323}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2000378323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66826,18 +64013,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2000398319}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2000398319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67660,18 +64839,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2016631080}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2016631080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67970,18 +65141,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2017549249}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2017549249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68181,7 +65344,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2028052935}
-  - component: {fileID: 2028052936}
   m_Layer: 0
   m_Name: Octava 2
   m_TagString: Untagged
@@ -68215,103 +65377,6 @@ Transform:
   m_Father: {fileID: 1572156297}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -166, z: 0}
---- !u!82 &2028052936
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2028052934}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 861168632717540462, guid: 8021a797e54b80f42936bd4feffe1704,
-    type: 2}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &2028547041
 GameObject:
   m_ObjectHideFlags: 0
@@ -68608,18 +65673,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2048061605}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2048061605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68918,18 +65975,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2075641500}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2075641500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70309,18 +67358,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a22b451f6097595439a10739ec0d05d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 0}
   controllable: {fileID: 2142094649}
   displayText: {fileID: 0}
   outputOnMax: Button Pressed
   outputOnMin: 
-  s:
-    nombre: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-  sm: {fileID: 0}
-  asource: {fileID: 0}
 --- !u!114 &2142094649
 MonoBehaviour:
   m_ObjectHideFlags: 0
