@@ -2,17 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class ShowVolumeScript : MonoBehaviour
 {
-    Text percentageText;
+    TMP_Text percentageText;
     void Start()
     {
-        percentageText = GetComponent<Text>();   
+        percentageText = GetComponent<TMP_Text>();   
     }
 
     public void TextUpdate(float value)
     {
-        percentageText.text = Mathf.RoundToInt(value + 80) + "%";
+        percentageText.text = Mathf.RoundToInt(value + 100) + "%";
     }
 }
