@@ -6,7 +6,7 @@ using VRTK.Examples;
 public class AudioManager : MonoBehaviour
 {
     public Sound[] sounds;
-    AudioSource Reproductorsonido;
+    public AudioSource Reproductorsonido;
     // Start is called before the first frame update
 
     public void Awake()

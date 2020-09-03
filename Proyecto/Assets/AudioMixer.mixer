@@ -127,8 +127,12 @@ AudioMixerController:
   m_ExposedParameters:
   - guid: 616f8b6ffd0fd1e4f9e721214738a7db
     name: DefaultVol
+  - guid: 942c505de11580341a87e8d1c1700a9b
+    name: LofiVol
   - guid: ce167e90f0455ed41b95ce2e7c25988f
     name: Volume
+  - guid: 43a59b27b7b55224391c9e6fd9843407
+    name: ReverbVol
   m_AudioMixerGroupViews:
   - guids:
     - 92760e19a0f716e4199869f978174686

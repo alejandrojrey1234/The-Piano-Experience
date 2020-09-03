@@ -8,13 +8,11 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
-    public GameObject DesactivarMovimiento;
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.P))
+        if(Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown(KeyCode.Escape))
         {
             pauseMenuUI.SetActive(true);
-
             if(GameIsPaused)
             {
                 Resume();
@@ -31,7 +29,7 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.SetActive(false);
         GameIsPaused = false;
-        Cursor.visible = false;
+        //Cursor.visible = false;
         Time.timeScale = 1f;
     }
 
@@ -39,7 +37,7 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.SetActive(true);
         GameIsPaused = true;
-        Cursor.visible = true;
+       // Cursor.visible = true;
         Time.timeScale = 0f;
     }
 
