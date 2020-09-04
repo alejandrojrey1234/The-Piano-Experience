@@ -20,6 +20,10 @@ public class SelectScene : MonoBehaviour
         SceneManager.LoadScene(4);
     }
 
+    public void parque()
+    {
+        SceneManager.LoadScene(5);
+    }
     public void GoHome()
     {
         SceneManager.LoadScene(0);

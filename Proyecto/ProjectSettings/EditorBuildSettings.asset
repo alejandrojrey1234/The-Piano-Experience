@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Synthwave_scene/Synthwave_scene.unity
     guid: d6240400ed4f8b945a4c5576647f9cfe
+  - enabled: 1
+    path: Assets/Scenes/Park_scene.unity
+    guid: f0325b45b9b43814e8344be82f589e18
   m_configObjects: {}
