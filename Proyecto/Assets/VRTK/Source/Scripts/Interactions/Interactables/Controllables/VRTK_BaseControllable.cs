@@ -352,6 +352,7 @@ namespace VRTK.Controllables
             e.interactingTouchScript = interactingTouchScript;
             e.value = GetValue();
             e.normalizedValue = GetNormalizedValue();
+            //Debug.Log(e.value);
             return e;
         }
     }

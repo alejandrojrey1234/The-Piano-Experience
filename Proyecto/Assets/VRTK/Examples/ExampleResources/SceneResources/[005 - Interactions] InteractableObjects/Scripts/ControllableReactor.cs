@@ -37,11 +37,12 @@
        
 
         }
+        //esta es la que dijo que habia que hacer
         protected virtual void ValueChanged(object sender, ControllableEventArgs e)
         {
             //mixer.SetFloat("DefaultVol", e.value); CUANDO SE PRUEBA, SE LAGUEA MUCHO
-            asource.Stop();
-            asource.volume = e.value;
+            asource.Stop();//esto anda pero mal
+            //asource.volume = e.value;//esto es lo que malvaso dijo, no anda
             if (displayText != null)
             {
                
